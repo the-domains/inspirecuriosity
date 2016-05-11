@@ -1,0 +1,28 @@
+name: InspireCuriosity
+favicon: null
+layout_spectrum: 0.6998844151385128
+typography_spectrum: 0.9740761162247509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7705198233015835
+  lightness: 0.5238464998546988
+  saturation: 0.9431220861151814
+  rhythmicContrast: 0.5117927917744964
+purpose: []
